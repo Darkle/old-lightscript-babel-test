@@ -14,7 +14,7 @@
       * https://github.com/laat/babel-plugin-transform-rename-import
       * https://github.com/avajs/babel-plugin-detective
     * Prolly not this: https://github.com/Velenir/babel-plugin-import-redirect
-  * Then for production you would minify- maybe kust use gulp and uglifyjs for that
+  * Then for production you would minify - maybe just use gulp and uglifyjs for that
     * Or can I do it in babel with this? https://babeljs.io/docs/en/babel-preset-minify
       * Yeah, it looks like it does what this does: https://github.com/babel/minify
     * IF I have to fall back to using a bundler, use rollup;
