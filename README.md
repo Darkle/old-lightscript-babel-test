@@ -22,5 +22,5 @@
       * https://github.com/rollup/rollup/issues/1343
       * https://github.com/rollup/rollup-plugin-node-resolve/issues/77
       * https://github.com/webpack/webpack/issues/2873
-	  * Or if have to use webpack, use https://github.com/DrewML/webpack-emit-all-plugin
+    * Or if have to use webpack, use https://github.com/DrewML/webpack-emit-all-plugin
 
