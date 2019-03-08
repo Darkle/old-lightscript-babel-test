@@ -1,0 +1,7 @@
+
+function barLog(){
+console.log('hello from baraaaaaaaaaaa')
+}
+export{
+  barLog
+}

@@ -1,0 +1,13 @@
+import {barLog} from './bar.lsc'
+import {a1Log} from './a/a1.lsc'
+import {a2Log} from './a/a2.lsc'
+import {b1Log} from './b/b1.lsc'
+import {asub2Log} from './a/asub1/asub2/asub2.lsc'
+
+
+console.log('hello from foosdsasdasdasd111zzzzzzsasdzzz')
+barLog()
+a1Log()
+a2Log()
+b1Log()
+asub2Log()

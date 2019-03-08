@@ -1,0 +1,7 @@
+
+function a2Log(){
+console.log('hello from a2')
+}
+export{
+  a2Log
+}

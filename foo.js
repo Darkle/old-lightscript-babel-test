@@ -1,0 +1,1 @@
+'use strict';var _bar=require('./bar.js'),_a=require('./a/a1.js'),_a2=require('./a/a2.js'),_b=require('./b/b1.js'),_asub=require('./a/asub1/asub2/asub2.js');console.log('hello from foosdsasdasdasd111zzzzzzsasdzzz'),(0,_bar.barLog)(),(0,_a.a1Log)(),(0,_a2.a2Log)(),(0,_b.b1Log)(),(0,_asub.asub2Log)();

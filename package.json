@@ -1,0 +1,29 @@
+{
+  "name": "old-lightscript-babel-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./foo.js",
+    "watch": "babel --out-dir ./ --watch **/*.lsc -x .lsc",
+    "build": "babel --presets minify --out-dir ./ **/*.lsc -x .lsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@oigroup/babel-preset-lightscript": "^3.1.1",
+    "@oigroup/lightscript-eslint": "^3.1.1",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-plugin-import-rename": "^1.0.1",
+    "babel-preset-minify": "^0.5.0",
+    "babel-watch": "^7.0.0",
+    "eslint": "^5.15.1",
+    "eslint-plugin-fp": "^2.3.0",
+    "eslint-plugin-security": "^1.4.0",
+    "gulp": "^4.0.0",
+    "install": "^0.12.2"
+  }
+}

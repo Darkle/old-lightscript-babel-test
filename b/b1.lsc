@@ -1,0 +1,8 @@
+
+
+function b1Log(){
+console.log('hello from b1')
+}
+export{
+  b1Log
+}

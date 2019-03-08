@@ -1,0 +1,1 @@
+'use strict';Object.defineProperty(exports,'__esModule',{value:!0});function a1Log(){return console.log('hello from a1bbbbbbbbb22222222222222')}exports.a1Log=a1Log;

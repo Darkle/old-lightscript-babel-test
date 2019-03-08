@@ -1,0 +1,8 @@
+
+
+function asub2Log(){
+console.log('hello from asub2ggggggggggggg')
+}
+export{
+  asub2Log
+}

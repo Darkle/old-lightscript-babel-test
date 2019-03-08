@@ -1,0 +1,25 @@
+{
+  "ignore": [
+    "node_modules",
+  ],
+  "plugins": [
+    [
+      "import-rename", {
+        "^(.*)\\.lsc$": "$1.js",
+      }
+    ]
+  ],
+  "presets": [
+    [
+      "@oigroup/babel-preset-lightscript",
+      {
+        "env": {
+            "targets": {
+              "node": 10
+            }
+          },
+          "stdlib": false,
+      }
+    ]
+  ]
+}
